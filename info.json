@@ -1,7 +1,7 @@
 {
-    "news": "Hi! Welcome to the official alpha release of this script! Before posting bugs or other reports, please read the last page to reduce repetition. Our thread can be found <a>title=\"here\" href=\"http://stackoverflow.com/questions/2392766/multiline-strings-in-json\"</a>.",
+    "news": "Hi! Welcome to the official alpha release of this script! Before posting bugs or other reports, please read the last page to reduce repetition. Our thread can be found here: ",
     "release": {
         "version": 1.924,
-        "notes": "<ttSome</tt> notes"
+        "notes": "Go to thread for features."
     }
 }
