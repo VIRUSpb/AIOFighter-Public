@@ -1,7 +1,7 @@
 {
-    "news": "Hi! Welcome to the official alpha release of this script! Before posting bugs or other reports, please read the last page to reduce repetition. Our thread can be found here: ",
+    "news": "Hi! Welcome to the official beta release of this script! Before posting bugs or other reports, please read the last page to reduce repetition. Our thread can be found here: ",
     "release": {
-        "version": 1.924,
-        "notes": "Go to thread for features."
+        "version": 4.023,
+        "notes": "Fixed IO error causing the script to not load saved locations."
     }
 }
