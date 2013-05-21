@@ -1,5 +1,5 @@
 {
-    "news": "Hi! Welcome to the official beta release of this script! Before posting bugs or other reports, please read the last page to reduce repetition. Our thread can be found here: ",
+    "news": "Please put in the location of the attack location name guys, so that people know where to find them easily! Like \"Varrock: Rats\".",
     "release": {
         "version": 4.023,
         "notes": "Fixed IO error causing the script to not load saved locations."
